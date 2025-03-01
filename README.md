@@ -47,3 +47,6 @@ npm run build
 ```
 
 This command runs TypeScript build (tsc -b) and then uses Vite to create a production-ready build in the build folder (or dist if you have configured it differently).
+
+You can access the demo in following link:
+[pixi-techdemo]([https://example.com](https://lelisabrusio.github.io/))
